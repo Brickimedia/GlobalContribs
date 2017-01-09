@@ -1,3 +1,6 @@
+# DEFUNCT REPO
+Brickimedia extensions and skins are now hosted on Gerrit. See the GitHub mirror: https://github.com/wikimedia/mediawiki-extensions-GlobalContribs
+
 #GlobalContribs
 GlobalContribs introduces two new special pages to MediaWiki, GlobalContributions and GlobalEditcount. Both behave exactly the same as their standard counterparts.
 
